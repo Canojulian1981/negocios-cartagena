@@ -288,8 +288,8 @@ textarea.form-input { resize: vertical; min-height: 80px; }
       <input type="text" id="f-title" class="form-input" placeholder="Ej: Enviar propuesta comercial a Hotel Caribe">
     </div>
     <div class="form-group">
-      <label class="form-label"><i class="ti ti-message-circle-2" style="font-size:13px;color:#534AB7" aria-hidden="true"></i> Respuesta / avance del contacto</label>
-      <textarea id="f-desc" class="form-input" placeholder="Respuesta o avance del cliente / aliado..."></textarea>
+      <label class="form-label"><i class="ti ti-message-circle-2" style="font-size:13px;color:#534AB7" aria-hidden="true"></i> Comentario de Jesús</label>
+      <textarea id="f-desc" class="form-input" placeholder="Respuesta o avance de Jesús..."></textarea>
     </div>
     <div class="form-row">
       <div class="form-group">
@@ -514,7 +514,7 @@ function cardHTML(t) {
       <span class="priority-badge ${t.priority}">${t.priority}</span>
     </div>
     ${t.commentAdmin ? `<div class="card-comment admin-comment"><i class="ti ti-message-circle" aria-hidden="true"></i> <strong>Mi acción:</strong> ${esc(t.commentAdmin)}</div>` : ''}
-    ${t.commentCristian ? `<div class="card-comment contacto-comment"><i class="ti ti-message-circle-2" aria-hidden="true"></i> <strong>Contacto:</strong> ${esc(t.commentCristian)}</div>` : ''}
+    ${t.commentCristian ? `<div class="card-comment contacto-comment"><i class="ti ti-message-circle-2" aria-hidden="true"></i> <strong>Jesús:</strong> ${esc(t.commentCristian)}</div>` : ''}
     <div class="card-meta">
       <div class="card-tags">
         <span class="tag ${areaClass(t.area)}">${areaIcon(t.area)} ${esc(t.area)}</span>
