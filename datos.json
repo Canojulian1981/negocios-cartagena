@@ -38,6 +38,19 @@
       "date": "2026-05-22",
       "status": "progress",
       "commentAdmin": "primer pedido reactivacion"
+    },
+    {
+      "id": "t1779312808852",
+      "created": "2026-05-20T21:33:28.852Z",
+      "title": "Lograr cita con San Valentin",
+      "desc": "",
+      "commentCristian": "",
+      "area": "Prospecto",
+      "priority": "media",
+      "assignee": "Jeiser 317-7890348",
+      "date": "2026-05-27",
+      "status": "pending",
+      "commentAdmin": ""
     }
   ]
 }
