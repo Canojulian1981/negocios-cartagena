@@ -51,6 +51,19 @@
       "date": "2026-05-27",
       "status": "pending",
       "commentAdmin": ""
+    },
+    {
+      "id": "t1779323758314",
+      "created": "2026-05-21T00:35:58.314Z",
+      "title": "Documentación Charleston",
+      "desc": "",
+      "commentCristian": "",
+      "area": "Prospecto",
+      "priority": "alta",
+      "assignee": "",
+      "date": "2026-05-26",
+      "status": "pending",
+      "commentAdmin": "Cómo te puedo ayudar?"
     }
   ]
 }
