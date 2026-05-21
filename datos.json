@@ -103,6 +103,19 @@
       "date": "",
       "status": "pending",
       "commentAdmin": ""
+    },
+    {
+      "id": "t1779379288570",
+      "created": "2026-05-21T16:01:28.570Z",
+      "title": "Avanzar con negocio Huevos Pet Cala Blanca",
+      "desc": "",
+      "commentCristian": "Huevos AA Rojo Santa Reyes Cubeta x 30 Und Pet",
+      "area": "Prospecto",
+      "priority": "alta",
+      "assignee": "Cala Blanca",
+      "date": "",
+      "status": "pending",
+      "commentAdmin": ""
     }
   ]
 }
