@@ -64,6 +64,19 @@
       "date": "2026-05-26",
       "status": "pending",
       "commentAdmin": "Como  te puedo ayudar?"
+    },
+    {
+      "id": "t1779341426386",
+      "created": "2026-05-21T05:30:26.386Z",
+      "title": "Respuesta sobre textura Crema Dagusto",
+      "desc": "",
+      "commentCristian": "",
+      "area": "Prospecto",
+      "priority": "media",
+      "assignee": "Alianza Team",
+      "date": "2026-05-21",
+      "status": "pending",
+      "commentAdmin": ""
     }
   ]
 }
