@@ -77,6 +77,19 @@
       "date": "2026-05-21",
       "status": "pending",
       "commentAdmin": "Necesitamos despachar producto el viernes 22 de mayo"
+    },
+    {
+      "id": "t1779341604653",
+      "created": "2026-05-21T05:33:24.653Z",
+      "title": "Despachar ph convencional",
+      "desc": "",
+      "commentCristian": "",
+      "area": "Cliente activo",
+      "priority": "media",
+      "assignee": "Cartagena Plaza",
+      "date": "2026-05-25",
+      "status": "pending",
+      "commentAdmin": ""
     }
   ]
 }
