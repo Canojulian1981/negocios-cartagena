@@ -116,6 +116,19 @@
       "date": "2026-05-27",
       "status": "pending",
       "commentAdmin": ""
+    },
+    {
+      "id": "t1779428281717",
+      "created": "2026-05-22T05:38:01.717Z",
+      "title": "Conseguir cita pruebas lavanderia Cartagena Plaza",
+      "desc": "",
+      "commentCristian": "",
+      "area": "Propuesta",
+      "priority": "alta",
+      "assignee": "Cartagena Plaza",
+      "date": "",
+      "status": "pending",
+      "commentAdmin": "Primera semana de Junio"
     }
   ]
 }
