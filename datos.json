@@ -87,7 +87,7 @@
       "area": "Cliente activo",
       "priority": "alta",
       "assignee": "Cartagena Plaza",
-      "date": "2026-05-28",
+      "date": "2026-05-25",
       "status": "progress",
       "commentAdmin": ""
     },
@@ -128,7 +128,20 @@
       "assignee": "Cartagena Plaza",
       "date": "",
       "status": "progress",
-      "commentAdmin": "Primera semana de Junio\nse hablo con el seÃ±or fausto y quedo pendiente la confirmaciÃ³n de cita para realizar las pruebas."
+      "commentAdmin": "Primera semana de Junio\nse hablo con el seÃÂ±or fausto y quedo pendiente la confirmaciÃÂ³n de cita para realizar las pruebas."
+    },
+    {
+      "id": "t1779765913245",
+      "created": "2026-05-26T03:25:13.245Z",
+      "title": "Visita Sanidad Hyatt y Cuadrar precios Battel",
+      "desc": "",
+      "commentCristian": "",
+      "area": "Prospecto",
+      "priority": "media",
+      "assignee": "",
+      "date": "2026-06-03",
+      "status": "pending",
+      "commentAdmin": ""
     }
   ]
 }
