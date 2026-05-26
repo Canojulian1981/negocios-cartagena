@@ -142,6 +142,19 @@
       "date": "2026-06-03",
       "status": "pending",
       "commentAdmin": ""
+    },
+    {
+      "id": "t1779766075746",
+      "created": "2026-05-26T03:27:55.746Z",
+      "title": "Buscar cita en confenalco, pidele ayuda al Sr Tony o al Sr Silvio",
+      "desc": "",
+      "commentCristian": "",
+      "area": "Prospecto",
+      "priority": "media",
+      "assignee": "Confenalco",
+      "date": "",
+      "status": "pending",
+      "commentAdmin": ""
     }
   ]
 }
