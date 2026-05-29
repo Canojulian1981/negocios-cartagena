@@ -18,7 +18,7 @@
       "created": "2026-05-20T21:08:56.802Z",
       "title": "Pedido Flow Chem",
       "desc": "",
-      "commentCristian": "Mañana viernes se monta el pedido inicial en la reunión de abastecimiento.",
+      "commentCristian": "MaÃ±ana viernes se monta el pedido inicial en la reuniÃ³n de abastecimiento.",
       "area": "Alianza",
       "priority": "alta",
       "assignee": "Flow Chem",
@@ -155,6 +155,19 @@
       "date": "",
       "status": "pending",
       "commentAdmin": ""
+    },
+    {
+      "id": "t1780064734283",
+      "created": "2026-05-29T14:25:34.283Z",
+      "title": "Productos Baja Rotacion",
+      "desc": "",
+      "commentCristian": "",
+      "area": "Prospecto",
+      "priority": "media",
+      "assignee": "",
+      "date": "2026-06-05",
+      "status": "pending",
+      "commentAdmin": "MaxWipe no creo que sea tan dificil de rotar"
     }
   ]
 }
