@@ -18,7 +18,7 @@
       "created": "2026-05-20T21:08:56.802Z",
       "title": "Pedido Flow Chem",
       "desc": "",
-      "commentCristian": "MaÃÂ±ana viernes se monta el pedido inicial en la reuniÃÂ³n de abastecimiento.",
+      "commentCristian": "MaÃÂÃÂ±ana viernes se monta el pedido inicial en la reuniÃÂÃÂ³n de abastecimiento.",
       "area": "Alianza",
       "priority": "alta",
       "assignee": "Flow Chem",
@@ -155,6 +155,19 @@
       "date": "2026-06-05",
       "status": "pending",
       "commentAdmin": "MaxWipe no creo que sea tan dificil de rotar"
+    },
+    {
+      "id": "t1780939858623",
+      "created": "2026-06-08T17:30:58.623Z",
+      "title": "conseguir cita en club nava para mi vista proxima semana",
+      "desc": "",
+      "commentCristian": "",
+      "area": "Prospecto",
+      "priority": "media",
+      "assignee": "",
+      "date": "",
+      "status": "pending",
+      "commentAdmin": ""
     }
   ]
 }
