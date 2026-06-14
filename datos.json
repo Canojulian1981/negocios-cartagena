@@ -18,7 +18,7 @@
       "created": "2026-05-20T21:08:56.802Z",
       "title": "Pedido Flow Chem",
       "desc": "",
-      "commentCristian": "MaÃÂÃÂ±ana viernes se monta el pedido inicial en la reuniÃÂÃÂ³n de abastecimiento.",
+      "commentCristian": "MaÃÂÃÂÃÂÃÂ±ana viernes se monta el pedido inicial en la reuniÃÂÃÂÃÂÃÂ³n de abastecimiento.",
       "area": "Alianza",
       "priority": "alta",
       "assignee": "Flow Chem",
@@ -165,6 +165,19 @@
       "area": "Prospecto",
       "priority": "media",
       "assignee": "",
+      "date": "",
+      "status": "pending",
+      "commentAdmin": ""
+    },
+    {
+      "id": "t1781452389520",
+      "created": "2026-06-14T15:53:09.520Z",
+      "title": "Apoyo de evacuación por parte de Team",
+      "desc": "",
+      "commentCristian": "",
+      "area": "Propuesta",
+      "priority": "alta",
+      "assignee": "Team",
       "date": "",
       "status": "pending",
       "commentAdmin": ""
